@@ -1,5 +1,5 @@
 This repository contains all the deliverables  for the course project of- **Human Computer Interaction** [UE18CS348]<br />
-Project Title : ***Advanced To-Do list***<br /><br />
+Project Title : ***Advanced To-Do list***<br />
 
 Presentation<br /> 
 Low-Fidelity Prototype<br />
@@ -9,7 +9,6 @@ Interview Video<br />
 Heuristic Evaluation<br /><br /> 
 
 # Team Members 
-<br />
 Manohar D - PES1201800305<br />
 Jagadish Rathod - PES1201801716<br />
 Srujan KN - PES1201801829<br />
