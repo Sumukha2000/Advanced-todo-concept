@@ -6,8 +6,7 @@ Low-Fidelity Prototype<br />
 High-Fidelity Prototype<br />
 Concept Video<br />
 Interview Video<br />
-Heuristic Evaluation<br /><br /> 
-
+Heuristic Evaluation<br />
 # Team Members 
 Manohar D - PES1201800305<br />
 Jagadish Rathod - PES1201801716<br />
